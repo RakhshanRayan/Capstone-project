@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      body {
+        margin: 0;
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        background-color: pink;
+      }
+      .topnav {
+        overflow: hidden;
+        background-color: #333;
+      }
+      .topnav a {
+        float: left;
+        color: rgb(20, 255, 192);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .topnav a:hover {
+        background-color: cornflowerblue;
+        color: #ddd;
+      }
+      .topnav a.active {
+        background-color: yellowgreen;
+        color: darkcyan;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="topnav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contactme.html">Contact me</a>
+      <a class="active" href="gallery.html">Gallery</a>
+    </div>
+    <center>
+      <h1>Some Pictures of Myself</h1>
+
+      <div class="carousel-container">
+        <img
+          class="myslides"
+          src="Rayan1.jpg"
+          height="400"
+          width="365"
+          alt="Slide 1"
+        />
+        <img
+          class="myslides"
+          src="https://www.entriva.com/wp-content/uploads/2023/09/haidan-IOBIgKmjm1Y-unsplash-scaled-e1694717921479.jpg"
+          height="300"
+          width="600"
+          alt="Slide 2"
+        />
+        <img
+          class="myslides"
+          src="https://career-advice.jobs.ac.uk/wp-content/uploads/Japan-e1634207070862.jpg.optimal.jpg"
+          height="300"
+          width="600"
+          alt="Slide 3"
+        />
+        <img
+          class="myslides"
+          src="https://cdn.mos.cms.futurecdn.net/3FnczamRyWU6MvRMEXWaGD-1200-80.jpg"
+          height="300"
+          width="600"
+          alt="Slide 4"
+        />
+      </div>
+    </center>
+    <script src="script.js"></script>
+  </body>
+</html>
