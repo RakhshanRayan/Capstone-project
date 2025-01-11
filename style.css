@@ -3,7 +3,10 @@ p {
 }
 .pimg1,
 .pimg2,
-.pimg3 {
+.pimg3,
+.pimg4,
+.pimg5,
+.pimg6 {
   position: relative;
   opacity: 0.8;
   background-position: center;
@@ -15,12 +18,24 @@ p {
   background-image: url("https://www.lifewire.com/thmb/NXq9cUkmEXV7V0k7NqGkd2BXBMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-8-Best-Online-Coding-Courses-of-2021-77ff57d2460349c4b82842afc82d8e4b.jpg");
   min-height: 400px;
 }
+.pimg5 {
+  background-image: url("https://media.istockphoto.com/id/474967306/photo/cute-boy-reading-book-in-library.jpg?s=612x612&w=0&k=20&c=8uN2XTa1rGfOwBDVWOKy8SDZo1GDobRFbVtJkk03ncA=");
+  min-height: 400px;
+}
+.pimg4 {
+  background-image: url("https://media.istockphoto.com/id/1374526825/photo/agriculture.jpg?s=612x612&w=0&k=20&c=eNwVGrehahV7kmtogxMj15rmEAH8mNc68lVBnAcF824=");
+  min-height: 400px;
+}
 .pimg2 {
   background-image: url("https://images.stockcake.com/public/c/b/d/cbddfd0c-4d2e-4c2f-94a2-5c5ead90d115_large/athlete-playing-badminton-stockcake.jpg");
   min-height: 400px;
 }
 .pimg3 {
   background-image: url("https://dam.thdstatic.com/content/production/Oh0iUluFTit5qp5NwNxJaA/Xcj6Egb1lP7hWgPTD0xTUA/Original%20file/how-to-clean-a-dorm-room-step-4.jpg");
+  min-height: 400px;
+}
+.pimg6 {
+  background-image: url("https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/45015/mceu-39324698131716463470435.jpg");
   min-height: 400px;
 }
 .section {
