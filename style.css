@@ -6,7 +6,13 @@ p {
 .pimg3,
 .pimg4,
 .pimg5,
-.pimg6 {
+.pimg6,
+.pimg7,
+.pimg8,
+.pimg9,
+.pimg10,
+.pimg11,
+.pimg12 {
   position: relative;
   opacity: 0.8;
   background-position: center;
@@ -14,18 +20,43 @@ p {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+.pimg12 {
+  background-image: url("Rayan1.jpg");
+  min-height: 400px;
+}
+.pimg11 {
+  background-image: url("https://images.isspf.com/wp-content/uploads/2022/03/21190146/INTERNATIONAL-FOOTBALL-PLAYER-1.webp");
+  min-height: 400px;
+}
+.pimg10 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGnQgH_D0ZNGagg7dGnoFJwN1ts3LTFzExLw&s");
+  min-height: 400px;
+}
+.pimg9 {
+  background-image: url("https://bmscdhaka.edu.bd/storage/slider_images/n31GrzvO5ZbWZAzr4Pf1qPA6r5pso3UR1VoXWJG1.png");
+  min-height: 400px;
+}
+.pimg8 {
+  background-image: url("https://www.cabidigitallibrary.org/cms/10.1079/cabicompendium.112199/asset/cdd35147-5506-42f7-90c9-ed4d49f9e6c6/assets/graphic/112199_02.jpg");
+  min-height: 400px;
+}
 .pimg1 {
-  background-image: url("https://www.lifewire.com/thmb/NXq9cUkmEXV7V0k7NqGkd2BXBMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-8-Best-Online-Coding-Courses-of-2021-77ff57d2460349c4b82842afc82d8e4b.jpg");
+  background-image: url("Rayan2.jpg");
   min-height: 400px;
 }
 .pimg5 {
   background-image: url("https://media.istockphoto.com/id/474967306/photo/cute-boy-reading-book-in-library.jpg?s=612x612&w=0&k=20&c=8uN2XTa1rGfOwBDVWOKy8SDZo1GDobRFbVtJkk03ncA=");
   min-height: 400px;
 }
+.pimg7 {
+  background-image: url("https://www.healthxchange.sg/sites/hexassets/Assets/food-nutrition/pumpkin-health-benefits-nutrition-facts.jpg");
+  min-height: 400px;
+}
 .pimg4 {
   background-image: url("https://media.istockphoto.com/id/1374526825/photo/agriculture.jpg?s=612x612&w=0&k=20&c=eNwVGrehahV7kmtogxMj15rmEAH8mNc68lVBnAcF824=");
   min-height: 400px;
 }
+
 .pimg2 {
   background-image: url("https://images.stockcake.com/public/c/b/d/cbddfd0c-4d2e-4c2f-94a2-5c5ead90d115_large/athlete-playing-badminton-stockcake.jpg");
   min-height: 400px;
